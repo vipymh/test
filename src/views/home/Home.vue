@@ -1,0 +1,22 @@
+<template>
+	<div>
+		<h2>首页</h2>
+	</div>
+</template>
+
+<script>
+	export default {
+		name: '',
+		components: {
+
+		},
+		data(){
+			return{
+				lists:''
+			}
+		}
+	}
+</script>
+
+<style>
+</style>
